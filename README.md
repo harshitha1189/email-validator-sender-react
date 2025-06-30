@@ -17,9 +17,7 @@ An automated React app to upload `.csv/.txt` files with 1000+ emails, validate t
 - EmailJS (Client-side email delivery)
 - HTML, CSS (Styled UI with shadows, responsiveness)
 
-## 📸 Screenshots
 
-*(Add screenshots of UI here)*
 
 ## 📂 Project Structure
 
